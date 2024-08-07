@@ -20,4 +20,17 @@ FoodHub is a modern food ordering website built with React, Redux, and React Rou
 
 ## Live Demo
 
-Explore the live project at [FoodHubX](https://foodhubx.netlify.app/).
+Explore the live project at [FoodHub](https://foodhubx.netlify.app/).
+
+
+
+![Screenshot (30)](https://github.com/user-attachments/assets/ce4431ca-0efb-411a-b0dd-51d5ec149d21)
+
+
+![Screenshot (31)](https://github.com/user-attachments/assets/cc95c3e3-cc4f-43a0-b2a2-6097253e212b)
+
+
+![Screenshot (33)](https://github.com/user-attachments/assets/01bfc9ce-bac0-41ed-9be0-1413eb8d8f87)
+
+
+
